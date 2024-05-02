@@ -1,0 +1,33 @@
+.currency-header {
+  text-align: center;
+  padding: 0 0px 30px 0px;
+}
+
+.currency-header div {
+  color: black;
+  font-size: 35px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.currency-header div.currency {
+  font-weight: 700 !important;
+}
+
+@media screen and (max-device-width: 480px) {
+  .currency-header div {
+    font-size: 30px;
+  }
+}
+
+@media screen and (max-device-width: 375px) {
+  .currency-header div {
+    font-size: 27px;
+  }
+}
+
+@media screen and (max-device-width: 320px) {
+  .currency-header div {
+    font-size: 26px;
+  }
+}
