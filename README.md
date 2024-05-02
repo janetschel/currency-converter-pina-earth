@@ -18,7 +18,7 @@ Benutzung:
 
 ## Getting Started
 
-To run the React Currency Converter on your local machine, follow these steps:
+Um das Projekt lokal bei dir zu starten, folge diesen Schritten:
 
 1. Clone das Repository:
 
